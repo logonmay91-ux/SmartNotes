@@ -1,0 +1,23 @@
+{
+  "name": "Smart Notes",
+  "short_name": "Notes",
+  "description": "Offline Smart Notes App",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f5f9",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://em-content.zobj.net/thumbs/240/apple/354/memo_1f4dd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://em-content.zobj.net/thumbs/240/apple/354/memo_1f4dd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
